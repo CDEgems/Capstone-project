@@ -1,2 +1,2 @@
 # Capstone-project
-Repository for th capstone course
+Repository for the capstone course
